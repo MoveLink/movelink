@@ -2,7 +2,7 @@
 "callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/7ed37fb2-99d9-47fd-b254-a6a4c61a6177",
 "maxSendable":100000000000,
 "minSendable":1,
-"metadata":"[[\"text/plain\",\"Pay through MoVelink Lightning Facility\"],[\"text/identifier\",\"cleverexhaust68@walletofsatoshi.com\"]]",
+"metadata":"[[\"text/plain\",\"Lightning Network payment\"],[\"text/identifier\",\"cleverexhaust68@walletofsatoshi.com\"]]",
 "commentAllowed":255,
 "tag":"payRequest",
 "allowsNostr":true,
