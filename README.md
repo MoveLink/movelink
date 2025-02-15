@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Repository for NOSTR identities. Ask for a free NOSTR NIP-05 address.
 <!--
 **MoveLink/movelink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
